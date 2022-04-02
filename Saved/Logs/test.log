@@ -1207,3 +1207,296 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.02-18.45.12:987][296]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 144.22 ms. Compile time 1.20 ms, link time 142.81 ms.
 [2022.04.02-18.45.12:987][296]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2022.04.02-18.45.12:987][296]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.46.53:787][601]LogD3D12RHI: Creating RTPSO with 136 shaders (0 cached, 1 new) took 63.79 ms. Compile time 61.79 ms, link time 1.76 ms.
+[2022.04.02-18.47.53:451][572]LogSlate: Took 0.157688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.02-18.47.57:772][ 32]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.02-18.48.11:293][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2022.04.02-18.48.11:757][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2022.04.02-18.48.19:622][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2022.04.02-18.48.19:669][ 45]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.02-18.48.25:439][728]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.02-18.48.31:973][428]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.31:980][429]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.31:989][430]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.31:997][430]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.32:003][431]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.32:014][431]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.32:506][481]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.02-18.48.48:635][992]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.48:651][992]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.48:661][993]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.48:673][994]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.48:673][994]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.48:681][994]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.48:681][994]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.48:687][994]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.48.48:728][996]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.04.02-18.48.52:445][388]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.02-18.48.52:471][388]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2022.04.02-18.48.52:505][388]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.48.53:002][388]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2022.04.02-18.48.53:009][388]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.04.02-18.48.53:009][388]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.04.02-18.48.53:009][388]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.02-18.48.53:009][388]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.02-18.48.53:009][388]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.02-18.48.53:079][388]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2022.04.02-18.48.53:120][388]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.04.02-18.48.53:120][388]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.04.02-18.48.53:120][388]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.02-18.48.53:464][388]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.02-18.48.53:593][388]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.04.02-18.48.53:593][388]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.04.02-18.48.53:593][388]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.02-18.48.53:597][388]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.48.53:614][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.48.53:677][388]LogSlate: Took 0.014461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.02-18.48.54:218][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.04.02-18.48.54:218][389]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.04.02-18.48.54:218][389]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2022.04.02-18.48.54:218][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2022.04.02-18.48.54:218][389]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.04.02-18.48.54:262][391]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.04.02-18.48.54:466][402]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2022.04.02-18.48.54:748][420]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.04.02-18.48.54:777][422]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.02-18.48.54:829][426]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.04.02-18.48.54:841][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.02-18.48.54:864][429]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.02-18.48.55:288][458]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.04.02-18.48.55:330][461]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.04.02-18.48.55:395][465]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.02-18.48.55:440][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.02-18.48.55:454][469]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.04.02-18.48.55:482][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.02-18.48.55:519][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.02-18.48.55:707][486]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.04.02-18.48.55:799][492]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.02-18.48.55:865][495]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.02-18.48.55:865][495]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2022.04.02-18.48.55:865][495]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.02-18.48.55:865][495]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.02-18.48.55:865][495]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-18.49.02:011][ 19]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.04.02-18.49.02:023][ 19]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.02-18.49.02:025][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.02:420][ 46]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.04.02-18.49.02:448][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.02-18.49.02:632][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.02-18.49.02:662][ 63]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.02-18.49.02:734][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.02-18.49.02:761][ 70]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.04.02-18.49.03:002][ 86]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.02-18.49.03:045][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.04.02-18.49.03:102][ 93]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.02-18.49.03:141][ 96]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.02-18.49.03:304][108]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.02-18.49.03:304][108]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2022.04.02-18.49.03:304][108]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.02-18.49.03:304][108]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.02-18.49.03:304][108]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-18.49.04:255][213]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.04:266][213]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.04.02-18.49.04:278][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.02-18.49.04:616][240]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.04.02-18.49.04:684][245]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.02-18.49.04:703][246]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.04:720][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.04:798][251]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.04.02-18.49.04:938][258]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.04.02-18.49.04:938][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2022.04.02-18.49.04:972][259]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.04.02-18.49.05:136][270]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.04.02-18.49.05:198][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.04.02-18.49.05:315][282]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.04.02-18.49.05:398][288]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.04.02-18.49.05:453][292]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.02-18.49.05:558][299]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.04.02-18.49.05:586][301]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.02-18.49.05:658][306]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.02-18.49.05:686][308]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.02-18.49.05:811][317]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.05:833][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.05:839][317]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.02-18.49.05:994][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2022.04.02-18.49.06:055][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.02-18.49.06:084][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.04.02-18.49.06:096][332]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.04.02-18.49.06:189][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.02-18.49.06:244][343]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.04.02-18.49.06:305][346]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.04.02-18.49.06:346][349]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.02-18.49.06:448][356]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.04.02-18.49.06:705][373]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.02-18.49.06:742][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.04.02-18.49.06:766][378]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.02-18.49.06:778][379]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.02-18.49.06:996][397]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.04.02-18.49.07:038][400]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.02-18.49.07:134][407]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.02-18.49.07:224][413]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.02-18.49.07:359][423]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.02-18.49.07:426][428]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.02-18.49.07:426][428]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2022.04.02-18.49.07:426][428]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.02-18.49.07:426][428]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.02-18.49.07:426][428]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-18.49.18:782][544]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.18:797][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.04.02-18.49.18:800][544]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.02-18.49.18:809][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.18:815][544]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.18:830][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.02-18.49.18:838][544]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.18:849][544]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.02-18.49.19:163][562]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2022.04.02-18.49.19:241][566]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2022.04.02-18.49.19:370][574]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.02-18.49.19:484][582]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.04.02-18.49.19:521][585]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.02-18.49.19:521][585]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.04.02-18.49.19:568][589]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.04.02-18.49.19:704][597]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.04.02-18.49.19:806][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.02-18.49.19:863][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.04.02-18.49.19:931][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.02-18.49.19:971][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.04.02-18.49.19:971][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.02-18.49.20:202][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.04.02-18.49.20:216][631]LogMaterialEditor: Applying material CubeMaterial
+[2022.04.02-18.49.20:859][631]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.04.02-18.49.20:859][631]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.02-18.49.20:859][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.02-18.49.20:859][631]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.02-18.49.20:872][631]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.04.02-18.49.20:916][631]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.02-18.49.20:941][631]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.04.02-18.49.21:004][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-18.49.21:058][631]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2022.04.02-18.49.21:622][631]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.04.02-18.49.22:028][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.02-18.49.22:034][631]TextureStreamingBuild: Display: Compiling optional shaders took 0.987 seconds.
+[2022.04.02-18.49.22:084][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.02-18.49.22:578][650]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.02-18.49.23:423][650]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.02-18.49.24:322][650]LogD3D12RHI: Creating RTPSO with 133 shaders (0 cached, 1 new) took 48.22 ms. Compile time 46.09 ms, link time 1.93 ms.
+[2022.04.02-18.49.24:336][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="../../../../../oefen/unreal/unrealEngine/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2022.04.02-18.49.24:407][650]LogSavePackage: Moving '../../../../../oefen/unreal/unrealEngine/Saved/CubeMaterialFF7651464825D6540A78778BB6B377DF.tmp' to '../../../../../oefen/unreal/unrealEngine/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2022.04.02-18.49.24:491][650]AssetCheck: New page: Asset Save: CubeMaterial
+[2022.04.02-18.49.24:491][650]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2022.04.02-18.49.24:491][650]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.02-18.49.24:491][650]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2022.04.02-18.49.24:491][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.02-18.49.24:491][650]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.02-18.49.24:491][650]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-18.49.24:553][654]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.04.02-18.49.25:123][695]LogSlate: Window 'CubeMaterial' being destroyed
+[2022.04.02-18.49.25:178][695]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-18.49.25:178][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-18.49.34:266][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.02-18.49.34:336][670]LogSavePackage: Moving '../../../../../oefen/unreal/unrealEngine/Saved/FirstPersonExampleMap7919266241BB47941155599059380A62.tmp' to '../../../../../oefen/unreal/unrealEngine/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.02-18.49.34:339][670]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.602
+[2022.04.02-18.49.34:345][670]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.02-18.49.34:345][670]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-18.49.36:974][962]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.02-18.49.37:650][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.02-18.49.37:767][962]PIE: New page: PIE session: FirstPersonExampleMap (2 apr. 2022 22:49:37)
+[2022.04.02-18.49.37:863][962]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.02-18.49.37:873][962]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.02-18.49.37:891][962]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.02-18.49.37:949][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047132s)
+[2022.04.02-18.49.37:965][962]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.02-18.49.37:978][962]LogPlayLevel: PIE: World Init took: (0.029065s)
+[2022.04.02-18.49.37:979][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.089298s)
+[2022.04.02-18.49.37:984][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.02-18.49.37:994][962]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.02-18.49.37:994][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.02-18.49.37:994][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.02-18.49.37:995][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.02-18.49.37:995][962]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.02-18.49.37:995][962]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.02-18.49.38:002][962]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.02-18.49.38:002][962]LogAudioMixer: Display: 1: FrontRight
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek(R) Audio)
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.02-18.49.38:020][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.02-18.49.38:020][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.02-18.49.38:032][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.02-18.49.38:032][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.02-18.49.38:032][962]LogInit: FAudioDevice initialized.
+[2022.04.02-18.49.38:032][962]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.02-18.49.38:116][962]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.02-18.49.38:229][962]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.02-20.49.38
+[2022.04.02-18.49.38:255][962]LogWorld: Bringing up level for play took: 0.035551
+[2022.04.02-18.49.38:256][962]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.04.02-18.49.38:497][962]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.02-18.49.38:526][962]PIE: Server logged in
+[2022.04.02-18.49.38:535][962]PIE: Play in editor total start time 0,956 seconds.
+[2022.04.02-18.49.39:915][ 53]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.02-18.49.41:465][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.02-18.49.41:465][223]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.02-18.49.41:466][223]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-18.49.41:466][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-18.49.41:509][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.02-18.49.41:555][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-18.49.41:564][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.02-18.49.41:564][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.02-18.49.41:565][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.02-18.49.41:578][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.02-18.49.41:580][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.02-18.49.41:628][224]LogPlayLevel: Display: Destroying online subsystem :Context_4
